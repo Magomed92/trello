@@ -1,4 +1,4 @@
-# When you can see app demo
+# Where you can see app demo
 
 https://like-trello.vercel.app/
 
