@@ -1,6 +1,6 @@
 # Where you can see app demo
 
-https://like-trello.vercel.app/
+https://trello-omega-ten.vercel.app/
 
 ## Available Scripts
 
