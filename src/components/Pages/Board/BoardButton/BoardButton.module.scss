@@ -1,0 +1,21 @@
+.root {
+  background-color: #ffffff3c;
+  cursor: pointer;
+  padding: 6px 8px;
+  border-radius: 3px;
+
+  &:hover {
+    background-color: #ffffff52;
+  }
+
+  a {
+    color: inherit;
+    text-decoration-line: none;
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+    span {
+      margin-left: 2px;
+    }
+  }
+}
